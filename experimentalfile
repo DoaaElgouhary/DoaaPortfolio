@@ -1,0 +1,46 @@
+< class="container">
+        <h2 class="about heading">Get to know <span class="text-primary"> Me </span></h2>
+        < class="about-content">
+            < class="about-text"> 
+                <h3> A little Bit <span class="text-primary">About Myself</span></h3>
+                <p class="lead"> Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nobis libero odio cum? Quia veritatis quos impedit autem magnam praesentium mollitia eos! Harum, optio. Explicabo aspernatur praesentium impedit inventore magnam debitis.</p>
+                <p class="lead"> Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nobis libero odio cum? Quia veritatis quos impedit autem magnam praesentium mollitia eos! Harum, optio. Explicabo aspernatur praesentium impedit inventore magnam debitis.</p>
+                <p class="lead"> Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nobis libero odio cum? Quia veritatis quos impedit autem magnam praesentium mollitia eos! Harum, optio. Explicabo aspernatur praesentium impedit inventore magnam debitis.</p>
+            < class="about image">
+                <img src="Doaa.jpg" alt="Picture of Myself">
+   
+
+   <div class="container">
+            <h2> Here Is What <span class="text-primary"> I Have to Offer</span> </h2>
+            <div class="boxes">
+                <div class="box">
+                        <h3><span class="text-primary">Awesome modern website</span></h3>
+                    <div class="feauture">
+                        <i class="fas fa-check"></i> Modern Layout Design
+                    </div>    
+                    <div class="feauture">
+                        <i class="fas fa-check"></i> Responsive website Design
+                    </div>    
+                    <div class="feauture">
+                        <i class="fas fa-check"></i> search engine optimization
+                    </div>    
+                    <div class="feauture">
+                        <i class="fas fa-check"></i> Browser compability
+                </div>
+                <div class="box">
+                        <h3><span class="text-primary">Free Hosting &amp; Maintenance</span></h3>
+                    <div class="feauture">
+                        <i class="fas fa-check"></i> Free Domain Name
+                    </div>    
+                    <div class="feauture">
+                        <i class="fas fa-check"></i> Free Hosting
+                    </div>    
+                    <div class="feauture">
+                        <i class="fas fa-check"></i> Free SQL Certificate
+                    </div>    
+                    <div class="feauture">
+                        <i class="fas fa-check"></i> Personal Assistance
+                    </div>    
+                </div>
+            </div>       
+        </div>
